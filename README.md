@@ -46,7 +46,7 @@ Sales are strongest during the final quarter of the year, especially in November
 The business currently relies heavily on consumer customers. Management should develop targeted campaigns and loyalty programs for Corporate and Home Office customers to diversify revenue sources and reduce dependence on a single segment.
 
 ## Dashboard Preview
-Superstore_Dashboard.png
+![Dashboard]Superstore_Dashboard.png
 
 ## Author
 Edidiong Charles | [linkedin.com/in/udo-edidiong-charles-8344b7243] | github.com/Deedi01
